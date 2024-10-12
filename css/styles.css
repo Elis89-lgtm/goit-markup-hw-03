@@ -215,6 +215,20 @@ ul {
   color: #434455;
 }
 
+.container-our-team-part {
+  width: 1440px;
+  margin: auto;
+}
+
+.our-team {
+  justify-content: center;
+}
+
+.features-team-list {
+  display: flex;
+  gap: 24px;
+  width: calc((100% - 72px) / 4);
+}
 .our-team,
 .our-portfolio {
   text-transform: capitalize;
