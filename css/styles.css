@@ -184,6 +184,11 @@ ul {
   overflow: hidden;
 }
 
+.container-features-avantages {
+  width: 1128px;
+  margin: auto;
+}
+
 .features-list {
   display: flex;
   align-items: center;
