@@ -123,7 +123,7 @@ ul {
 
 .container-hero {
   display: block;
-  padding: 188px 0;
+  padding: 188px 0 188px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
@@ -160,6 +160,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  border: none;
 }
 
 .hero-btn {
@@ -197,7 +198,7 @@ ul {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding: 120px 0;
+  padding: 120px 0 120px;
 }
 
 .features-item {
@@ -209,7 +210,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .paragraph-text {
@@ -222,19 +223,25 @@ ul {
 .container-our-team-part {
   width: 1128px;
   margin: auto;
+  padding: 120px 0 120px;
+}
+
+img {
+  display: block;
 }
 
 .our-team {
   justify-content: center;
-  padding-top: 120px;
+
+  margin-bottom: 72px;
 }
 
 .features-team-list {
   display: flex;
   gap: 24px;
+}
 
-  padding-top: 72px;
-  padding-bottom: 122px;
+.features-team-members {
 }
 .our-team,
 .our-portfolio {
@@ -261,6 +268,7 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .features-position {
@@ -272,7 +280,7 @@ ul {
 }
 
 .employee-info {
-  padding: 32px 16px;
+  padding: 32px 0 32px;
   border-radius: 0 0 4px 4px;
 }
 
