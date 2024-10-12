@@ -222,12 +222,15 @@ ul {
 
 .our-team {
   justify-content: center;
+  padding-top: 120px;
 }
 
 .features-team-list {
   display: flex;
   gap: 24px;
   width: calc(100% - 72px) / 4);
+  padding-top: 232px;
+  padding-bottom: 120px;
 }
 .our-team,
 .our-portfolio {
