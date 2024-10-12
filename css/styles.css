@@ -91,8 +91,11 @@ ul {
 .contacts-list {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
-ntacts-link {
+.contacts-link {
+  display: block;
+  padding: 24px 0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
