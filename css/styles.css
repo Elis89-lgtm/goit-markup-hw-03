@@ -71,6 +71,8 @@ ul {
 
 .footer-logo .logo-part {
   color: #f4f4fd;
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 .nav-link {
@@ -311,9 +313,12 @@ ul {
   color: #434455;
 }
 
-.container-page-footer {
+.page-footer {
   width: 1440px;
   height: 312px;
+}
+.container-page-footer {
+  padding-left: 156px;
 }
 
 .description-text {
@@ -322,5 +327,4 @@ ul {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 16px;
 }
