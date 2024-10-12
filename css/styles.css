@@ -228,10 +228,9 @@ ul {
 .features-team-list {
   display: flex;
   gap: 24px;
-  width: calc(100% - 72px) / 4);
+
   padding-top: 72px;
   padding-bottom: 122px;
-  
 }
 .our-team,
 .our-portfolio {
