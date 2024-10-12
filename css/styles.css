@@ -231,6 +231,7 @@ ul {
   width: calc(100% - 72px) / 4);
   padding-top: 72px;
   padding-bottom: 122px;
+  
 }
 .our-team,
 .our-portfolio {
@@ -247,7 +248,9 @@ ul {
 }
 .features-item {
   background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
 }
+
 .features-team-members {
   font-weight: 500;
   font-size: 20px;
@@ -267,6 +270,22 @@ ul {
 
 .employee-info {
   padding: 32px 16px;
+}
+
+.container-our-portfolio {
+  width: 1128px;
+  margin: auto;
+}
+
+.our-portfolio {
+  justify-content: center;
+  padding-bottom: 72px;
+}
+
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 48px 24px;
 }
 
 .features-product {
