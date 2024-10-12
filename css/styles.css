@@ -111,6 +111,8 @@ ul {
 
 .page-footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .hero {
@@ -269,6 +271,7 @@ ul {
 
 .employee-info {
   padding: 32px 16px;
+  border-radius: 0 0 4px 4px;
 }
 
 .container-our-portfolio {
@@ -308,9 +311,16 @@ ul {
   color: #434455;
 }
 
+.container-page-footer {
+  width: 1440px;
+  height: 312px;
+}
+
 .description-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
+  padding-top: 16px;
 }
