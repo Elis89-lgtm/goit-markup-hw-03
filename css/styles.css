@@ -184,6 +184,16 @@ ul {
   overflow: hidden;
 }
 
+.features-list {
+  display: flex;
+  width: 1128px;
+  height: 104px;
+  gap: 24px;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
 .features-name {
   font-weight: 500;
   font-size: 20px;
