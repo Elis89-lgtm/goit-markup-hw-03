@@ -69,7 +69,7 @@ ul {
   color: #2e2f42;
 }
 
-.footer-logo .logo-part {
+.footer-logo {
   color: #f4f4fd;
   margin-bottom: 16px;
   display: inline-block;
@@ -233,14 +233,13 @@ img {
 
 .our-team {
   justify-content: center;
-  padding-top: 120px;
+
   margin-bottom: 72px;
 }
 
 .features-team-list {
   display: flex;
   gap: 24px;
-  padding-bottom: 120px;
 }
 
 .our-team,
@@ -255,6 +254,7 @@ img {
 }
 .our-team-part {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .features-item {
   background-color: #ffffff;
