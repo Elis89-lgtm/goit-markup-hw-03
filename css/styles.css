@@ -290,12 +290,13 @@ img {
   padding: 120px 0 120px 0;
 }
 
-.area-portfolio {
+.our-portfolio {
   justify-content: center;
   margin-bottom: 72px;
-  padding-top: 120px;
 }
-
+.area-portfolio {
+  padding: 120px 0 120px 0;
+}
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
