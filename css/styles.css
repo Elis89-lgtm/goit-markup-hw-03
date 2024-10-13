@@ -119,6 +119,7 @@ ul {
 
 .hero {
   background-color: #2e2f42;
+  padding: 188px 0 188px;
 }
 
 .container-hero {
@@ -139,7 +140,6 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  padding: 188px 0 188px;
 }
 
 .hero-btn {
@@ -194,13 +194,13 @@ ul {
 .container-features-avantages {
   width: 1128px;
   margin: auto;
+  padding: 120px 0 120px;
 }
 
 .features-list {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding: 120px 0 120px;
 }
 
 .features-item {
