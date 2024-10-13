@@ -191,10 +191,10 @@ ul {
   overflow: hidden;
 }
 
-.container-features-avantages {
+.features-avantages {
   width: 1128px;
   margin: auto;
-  padding: 120px 0 120px;
+  padding: 120px 0;
 }
 
 .features-list {
@@ -290,7 +290,7 @@ img {
   padding: 120px 0 120px 0;
 }
 
-.our-portfolio {
+.area-portfolio {
   justify-content: center;
   margin-bottom: 72px;
   padding-top: 120px;
